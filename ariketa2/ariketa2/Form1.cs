@@ -7,6 +7,11 @@ namespace ariketa2
     {
         int i = 0;
         Eragiketa eragiketa = new Eragiketa();
+        Ariketa2 a = new Ariketa2();
+        Ariketa2 b = new Ariketa2();
+        Ariketa2 c = new Ariketa2();
+        Ariketa2 d = new Ariketa2();
+        List<Ariketa2> objetuak;
         public Form1()
         {
             InitializeComponent();
@@ -22,28 +27,32 @@ namespace ariketa2
             switch (i)
             {
                 case 0:
-                    eragiketa.a = int.Parse(textBox1.Text);
+                    a.Zenbakia =  int.Parse(textBox1.Text);
+                    objetuak.Add(a);
                     textBox1.Clear();
                     label1.Text = "2. zenbakia";
                     i++;
                     break;
                 case 1:
-                    eragiketa.b = int.Parse(textBox1.Text);
+                    b.Zenbakia = int.Parse(textBox1.Text);
+                    objetuak.Add(b);
                     textBox1.Clear();
                     label1.Text = "3. zenbakia";
                     i++;
                     break;
                 case 2:
-                    eragiketa.c = int.Parse(textBox1.Text);
+                    c.Zenbakia = int.Parse(textBox1.Text);
+                    objetuak.Add(c);
                     textBox1.Clear();
                     label1.Text = "4. zenbakia";
                     i++;
                     break;
                 case 3:
-                    eragiketa.d = int.Parse(textBox1.Text);
+                    d.Zenbakia = int.Parse(textBox1.Text);
+                    objetuak.Add(d);
                     textBox1.Clear();
                     label1.Text = "Emaitza";
-                    textBox1.Text = eragiketa.eragiketaEgin();
+                    textBox1.Text = "(" + this.a + " + (" + this.b + "x2)" + " + (" + this.c + "x3)" + " + (" + this.d + "x4)/4 = " + Ariketa2.eragiketa(objetuak);
                     i = 0;
                     break;
             }

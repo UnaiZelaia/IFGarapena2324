@@ -31,9 +31,9 @@ namespace ariketa2
 
 
 
-        public String eragiketaEgin()
+        public static String eragiketaEgin(List<int> objetuak)
         {
-            float result = (this.a + (2 * this.b) + (3 * this.c) + (4 * this.d)) / 4;
+            float result = (objetuak.IndexOf(0) + (2 * objetuak.IndexOf(1)) + (3 * this.c) + (4 * this.d)) / 4;
             return "(" + this.a + " + (" + this.b + "x2)" + " + (" + this.c + "x3)" + " + (" + this.d + "x4)/4 = " + result;
         }
     }
