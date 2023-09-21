@@ -1,0 +1,16 @@
+C:\Users\unaiwin\source\repos\ariketa2\ariketa2\bin\Debug\net6.0-windows\ariketa2.exe
+C:\Users\unaiwin\source\repos\ariketa2\ariketa2\bin\Debug\net6.0-windows\ariketa2.deps.json
+C:\Users\unaiwin\source\repos\ariketa2\ariketa2\bin\Debug\net6.0-windows\ariketa2.runtimeconfig.json
+C:\Users\unaiwin\source\repos\ariketa2\ariketa2\bin\Debug\net6.0-windows\ariketa2.dll
+C:\Users\unaiwin\source\repos\ariketa2\ariketa2\bin\Debug\net6.0-windows\ariketa2.pdb
+C:\Users\unaiwin\source\repos\ariketa2\ariketa2\obj\Debug\net6.0-windows\ariketa2.Form1.resources
+C:\Users\unaiwin\source\repos\ariketa2\ariketa2\obj\Debug\net6.0-windows\ariketa2.csproj.GenerateResource.cache
+C:\Users\unaiwin\source\repos\ariketa2\ariketa2\obj\Debug\net6.0-windows\ariketa2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\unaiwin\source\repos\ariketa2\ariketa2\obj\Debug\net6.0-windows\ariketa2.AssemblyInfoInputs.cache
+C:\Users\unaiwin\source\repos\ariketa2\ariketa2\obj\Debug\net6.0-windows\ariketa2.AssemblyInfo.cs
+C:\Users\unaiwin\source\repos\ariketa2\ariketa2\obj\Debug\net6.0-windows\ariketa2.csproj.CoreCompileInputs.cache
+C:\Users\unaiwin\source\repos\ariketa2\ariketa2\obj\Debug\net6.0-windows\ariketa2.dll
+C:\Users\unaiwin\source\repos\ariketa2\ariketa2\obj\Debug\net6.0-windows\refint\ariketa2.dll
+C:\Users\unaiwin\source\repos\ariketa2\ariketa2\obj\Debug\net6.0-windows\ariketa2.pdb
+C:\Users\unaiwin\source\repos\ariketa2\ariketa2\obj\Debug\net6.0-windows\ariketa2.genruntimeconfig.cache
+C:\Users\unaiwin\source\repos\ariketa2\ariketa2\obj\Debug\net6.0-windows\ref\ariketa2.dll
