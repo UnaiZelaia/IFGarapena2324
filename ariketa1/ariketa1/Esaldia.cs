@@ -8,10 +8,10 @@ namespace ariketa1
 {
     internal class Esaldia
     {
-
-        public String esaldiaLotuta
+        private string esaldiaLotuta;
+        public string EsaldiaLotuta
         {
-            get; set;
+            get { return esaldiaLotuta; }
         }
         public String hitzBakarra
         {

@@ -71,7 +71,7 @@ namespace ariketa1
 
         private void button5_Click(object sender, EventArgs e)
         {
-            MessageBox.Show(esaldi.esaldiaLotuta);
+            MessageBox.Show(esaldi.EsaldiaLotuta);
             buttonLotu.Enabled = false;
         }
 
