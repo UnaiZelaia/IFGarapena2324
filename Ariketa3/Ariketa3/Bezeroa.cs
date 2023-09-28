@@ -11,5 +11,10 @@ namespace Ariketa3
         public String kategoria{ get; set; }
 
 
+        public override string gorde()
+        {
+            return "Bezeroa ondo gorde da";
+        }
+
     }
 }
